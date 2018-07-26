@@ -95,7 +95,7 @@ Wie im Falle von Cookies werden die Daten abhängig vom jeweiligen Zweck beim Sc
 Unabhängig von der definierten Speicherdauer können Nutzer die Daten jederzeit löschen oder ihre Browser so konfigurieren, dass die Funktionen zur Datenspeicherung bzw. JavaScript als Ganzes nicht zur Verfügung stehen. Die selbsttätige Löschung, die vollständige Deaktivierung dieser Funktionen oder von JavaScript als Ganzes kann dazu führen, dass das Onlineangebot nicht mehr im vollen Umfang genutzt werden kann.
 
 ## 3. Funktionen und Inhalte
-Die folgenden Abschnitte geben detailliert Auskunft über die Art, den Umfang und den Zweck der Erhebung und Verarbeitung personenbezogenen Daten, die bei der Nutzung bestimmter Funktionen und Inhalte des Onlineangebots erfolgt.
+Die folgenden Unterabschnitte geben detailliert Auskunft über die Art, den Umfang und den Zweck der Erhebung und Verarbeitung personenbezogenen Daten, die bei der Nutzung bestimmter Funktionen und Inhalte des Onlineangebots erfolgt.
 
 [Auflistung der Funktionen]
 
