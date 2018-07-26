@@ -70,7 +70,7 @@ The IP address is technically required to answer the request. In addition, the d
 - Improvement of the presentation of content and advertising
 - Performance of proof obligations
 - Detection, defense and prosecution of unlawful or abusive use of the online service
-- Generate anonymous statistics to improve the online service
+- Generation of anonymous statistics to improve the online service
 
 ### 2.3. Storage of data in browsers
 #### 2.3.1. Cookies
