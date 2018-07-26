@@ -72,6 +72,14 @@ Die IP-Adresse ist technisch erforderlich, um die Anfrage beantworten zu können
 - Erzeugung anonymisierter Statistiken zur Optimierung des Onlineangebots
 
 ### 2.3. Speicherung von Daten in Browsern
+Der Betreiber des Onlineangebots setzt die in den nachfolgenden Unterabschnitten beschriebenen Speichertechniken für folgende Zwecken ein:
+- Die sichere und effiziente Bereitstellung von Funktionen, die eine Speicherung von Daten in Browsern bedingen, z.B. die sichere Authentifizierung von Nutzern
+- Die Bereitstellung von Funktionen, die ausdrücklich von Nutzern angefordert wurden und eine Speicherung von Daten in Browsern bedingen, z.B. das Merken einer zuvor getroffenen Auswahl
+
+Der Einsatz für diese Zwecke ist für die Bereitstellung des Onlineangebots zwingend erforderlich und erfolgt auf Grundlage der berechtigten Interessen des Betreibers. Sofern die vorgenannten Techniken für weitere Zwecke eingesetzt werden, erfolgt eine gesonderte Beschreibung des Einsatzes in den folgenden Abschnitten dieser Datenschutzerklärung.
+
+Soweit für einen Zweck erforderlich, wird innerhalb des Onlineangebots gesondert auf die Datenspeicherung im Browser hingewiesen und die dafür nötige Zustimmung der Nutzer eingeholt.
+
 #### 2.3.1. Cookies
 Bei Cookies handelt es sich um eine gängige Technik, mit der Informationen eines Onlineangebots an die Browser der Nutzer übermittelt werden, um sie dort für eine definierte Zeit zu speichern. Die Browser senden die Informationen bei einem späteren Zugriff automatisch zurück an das Onlineangebot, so dass sich Informationen zwischen beiden Seiten austauschen lassen.
 
@@ -85,15 +93,6 @@ Gegebenenfalls werden Informationen auch mithilfe von JavaScript in den Browsern
 Wie im Falle von Cookies werden die Daten abhängig vom jeweiligen Zweck beim Schließen der Browser automatisch gelöscht oder bleiben darüber hinaus bestehen. Die genaue Speicherdauer wird vom Browser selbst verwaltet.
 
 Unabhängig von der definierten Speicherdauer können Nutzer die Daten jederzeit löschen oder ihre Browser so konfigurieren, dass die Funktionen zur Datenspeicherung bzw. JavaScript als Ganzes nicht zur Verfügung stehen. Die selbsttätige Löschung, die vollständige Deaktivierung dieser Funktionen oder von JavaScript als Ganzes kann dazu führen, dass das Onlineangebot nicht mehr im vollen Umfang genutzt werden kann.
-
-#### 2.3.3. Verwendung der Datenspeicherung in Browsern
-Der Betreiber des Onlineangebots setzt die vorgenannten Techniken für folgende Zwecken ein:
-- Die sichere und effiziente Bereitstellung von Funktionen, die eine Speicherung von Daten in Browsern bedingen, z.B. die sichere Authentifizierung von Nutzern
-- Die Bereitstellung von Funktionen, die ausdrücklich von Nutzern angefordert wurden und eine Speicherung von Daten in Browsern bedingen, z.B. das Merken einer zuvor getroffenen Auswahl
-
-Der Einsatz für diese Zwecke ist für die Bereitstellung des Onlineangebots zwingend erforderlich und erfolgt auf Grundlage der berechtigten Interessen des Betreibers. Sofern die vorgenannten Techniken für weitere Zwecke eingesetzt werden, erfolgt eine gesonderte Beschreibung des Einsatzes in den folgenden Abschnitten dieser Datenschutzerklärung.
-
-Soweit für einen Zweck erforderlich, wird innerhalb des Onlineangebots gesondert auf die Datenspeicherung im Browser hingewiesen und die dafür nötige Zustimmung der Nutzer eingeholt.
 
 ## 3. Funktionen und Inhalte
 Die folgenden Abschnitte geben detailliert Auskunft über die Art, den Umfang und den Zweck der Erhebung und Verarbeitung personenbezogenen Daten, die bei der Nutzung bestimmter Funktionen und Inhalte des Onlineangebots erfolgt.
