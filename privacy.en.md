@@ -73,6 +73,14 @@ The IP address is technically required to answer the request. In addition, the d
 - Generation of anonymous statistics to improve the online service
 
 ### 2.3. Storage of data in browsers
+The operator of the online service uses the storage techniques described in the following subsections for the following purposes:
+- The secure and efficient provision of features that require storage of data in browsers, e.g. the secure authentication of users
+- The provision of features that have been explicitly requested by users and that require storage of data in browsers, e.g. remembering a previously made selection
+
+The use for these purposes is mandatory for the provision of the online service and is based on the legitimate interests of the operator. If the aforementioned techniques are used for any other purpose, a separate description of this use will be given in the following sections of this privacy policy.
+
+As far as necessary for a purpose, the data storage in the browser is pointed out separately within the online service and the necessary consent of the users obtained.
+
 #### 2.3.1. Cookies
 Cookies are a common technique used to transmit information from an online service to users' browsers in order to store it for a defined period of time. The browsers automatically send this information back to the online service on later requests, so that information can be exchanged between the two sides.
 
@@ -86,15 +94,6 @@ Where appropriate, information is also stored in users' browsers using JavaScrip
 As in the case of cookies, data is automatically deleted or persisted when closing the browser, depending on its purpose. The exact storage time is managed by the browser itself.
 
 Regardless of the set storage time, users can delete the data at any time or configure their browsers so that the data storage features or JavaScript as a whole are not available. The self-acting deletion, the complete deactivation of these features or of JavaScript as a whole can lead to the fact that the online service can no longer be used to its full extent.
-
-#### 2.3.3. Use of data storage in browsers
-The operator of the online service uses the aforementioned techniques for the following purposes:
-- The secure and efficient provision of features that require storage of data in browsers, e.g. the secure authentication of users
-- The provision of features that have been explicitly requested by users and that require storage of data in browsers, e.g. remembering a previously made selection
-
-The use for these purposes is mandatory for the provision of the online service and is based on the legitimate interests of the operator. If the aforementioned techniques are used for any other purpose, a separate description of this use will be given in the following sections of this privacy policy.
-
-As far as necessary for a purpose, the data storage in the browser is pointed out separately within the online service and the necessary consent of the users obtained.
 
 ## 3. Features and contents
 The following sections provide detailed information on the nature, scope and purpose of the collection and processing of personal data that occurs when certain features and contents of the online service are used.
