@@ -4,8 +4,8 @@ This is the privacy policy for the upcoming Mailfriends version, following the r
 The current version is a very basic one, enough to start with a first informational website. It has to be complemented with details about the Mailfriends features that will follow step by step.
 
 Supported languages:
-- German
-- English
+- [German](privacy.de.md)
+- [English](privacy.en.md)
 
 Planned languages (looking for voluntary translators):
 - French
