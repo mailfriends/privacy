@@ -96,7 +96,7 @@ As in the case of cookies, data is automatically deleted or persisted when closi
 Regardless of the set storage time, users can delete the data at any time or configure their browsers so that the data storage features or JavaScript as a whole are not available. The self-acting deletion, the complete deactivation of these features or of JavaScript as a whole can lead to the fact that the online service can no longer be used to its full extent.
 
 ## 3. Features and contents
-The following sections provide detailed information on the nature, scope and purpose of the collection and processing of personal data that occurs when certain features and contents of the online service are used.
+The following subsections provide detailed information on the nature, scope and purpose of the collection and processing of personal data that occurs when certain features and contents of the online service are used.
 
 [list of features]
 
