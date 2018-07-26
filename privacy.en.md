@@ -89,7 +89,7 @@ The storage period for cookies depends on the purpose. Either cookies are stored
 Regardless of the set storage time, users can delete cookies from their browsers at any time or configure their browsers to not accept cookies or to confirm each acceptance in advance. The self-acting deletion, the complete deactivation of cookies or the rejection of individual cookies can lead to the fact that the online service can no longer be used to its full extent.
 
 #### 2.3.2. JavaScript
-Where appropriate, information is also stored in users' browsers using JavaScript. In contrast to the use of cookies, the information is only available within the browsers, so the browsers do not automatically send this information back to the online service on later requests
+Where appropriate, information is also stored in users' browsers using JavaScript. In contrast to the use of cookies, the information is only available within the browsers, so the browsers do not automatically send this information back to the online service on later requests.
 
 As in the case of cookies, data is automatically deleted or persisted when closing the browser, depending on its purpose. The exact storage time is managed by the browser itself.
 
