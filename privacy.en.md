@@ -72,7 +72,28 @@ The IP address is technically required to answer the request. In addition, the d
 - Detection, defense and prosecution of unlawful or abusive use of the online service
 - Generation of anonymous statistics to improve the online service
 
-### 2.3. Storage of data in browsers
+### 2.3. Contacts
+The operator provides different ways of contact, e.g. by mail, e-mail, telephone or via provided functions within the online service.
+
+The transmitted data is processed and stored for the following purposes:
+- Handling contacts
+- Detection, defense and prosecution of unlawful or abusive contacts
+- Archiving contacts for users who are already in a customer relationship with the operator
+- Performance of statutory retention requirements
+
+The processing of contacts via provided functions within the online service takes place with the prior consent of the user. Contacts by other means are processed due to a legitimate interest of the operator. In addition, if the establishment of contact aims at concluding a contract, the legal basis of processing is Art. 6 para. 1 lit. b GDPR.
+
+The data transmitted during a contact can be stored in programs or databases for managing contacts and customer relationships (for example in a customer relationship management system).
+
+#### 2.3.1. Contacts by e-mail
+When contacting by e-mail, data may be transmitted unencrypted (for example, between the participating e-mail servers). Furthermore, an email may not arrive at the intended recipient due to spam filters or technical issues.
+
+#### 2.3.2. Contacts by phone
+When contacting by phone, the phone number of the user can be transmitted. It may be displayed in the device of the called party and stored there for the purpose of recall (for a device-dependent duration).
+
+The transmission of the user's phone number can be prevented, if the user suppresses it before contacting.
+
+### 2.4. Storage of data in browsers
 The operator of the online service uses the storage techniques described in the following subsections for the following purposes:
 - The secure and efficient provision of features that require storage of data in browsers, e.g. the secure authentication of users
 - The provision of features that have been explicitly requested by users and that require storage of data in browsers, e.g. remembering a previously made selection
@@ -81,14 +102,14 @@ The use for these purposes is mandatory for the provision of the online service 
 
 As far as necessary for a purpose, the data storage in the browser is pointed out separately within the online service and the necessary consent of the users obtained.
 
-#### 2.3.1. Cookies
+#### 2.4.1. Cookies
 Cookies are a common technique used to transmit information from an online service to users' browsers in order to store it for a defined period of time. The browsers automatically send this information back to the online service on later requests, so that information can be exchanged between the two sides.
 
 The storage period for cookies depends on the purpose. Either cookies are stored for the duration of the current session only (until the browser is closed) or for a certain period of time, so that they persist even after the browser has been closed (for example, 30 days).
 
 Regardless of the set storage time, users can delete cookies from their browsers at any time or configure their browsers to not accept cookies or to confirm each acceptance in advance. The self-acting deletion, the complete deactivation of cookies or the rejection of individual cookies can lead to the fact that the online service can no longer be used to its full extent.
 
-#### 2.3.2. JavaScript
+#### 2.4.2. JavaScript
 Where appropriate, information is also stored in users' browsers using JavaScript. In contrast to the use of cookies, the information is only available within the browsers, so the browsers do not automatically send this information back to the online service on later requests.
 
 As in the case of cookies, data is automatically deleted or persisted when closing the browser, depending on its purpose. The exact storage time is managed by the browser itself.
