@@ -107,6 +107,4 @@ Under certain conditions, users have the right to request the deletion of data, 
 
 Users may withdraw previously given consent as well as data processing for the purpose of direct marketing at any time with effect for the future (Art. 7 para. 3 GDPR and Art. 21 para. 2 GDPR). In addition, they may object the data processing that is performed due to a legitimate interest of the operator, for reasons arising from their specific situation (Art. 21 para. 1 GDPR).
 
-Users have the right to submit a complaint to the competent supervisory authority (Art. 77 GDPR):
-
-[contact details]
+Users have the right to submit a complaint to the competent supervisory authority (Art. 77 GDPR) if they consider that the processing of their personal data violates the GDPR.
