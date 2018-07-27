@@ -110,10 +110,10 @@ Die Verarbeitung von Kontaktaufnahmen über bereitgestellte Funktionen innerhalb
 
 Die bei einer Kontaktaufnahme übermittelten Daten können in Programmen bzw. Datenbanken zur Verwaltung von Kontaktaufnahmen und Kundenbeziehungen gespeichert werden (z.B. in einem "Customer-Relationship-Management" System).
 
-#### 3.1.1. Kontaktaufnahme per E-Mail
+#### 3.1.1. Kontaktaufnahmen per E-Mail
 Bei einer Kontaktaufnahme per E-Mail werden Daten ggf. unverschlüsselt übertragen (z.B. zwischen den beteiligten E-Mail-Servern). Des Weiteren kann es sein, dass eine E-Mail aufgrund von Spamfiltern oder technischen Problemen nicht beim gewünschten Empfänger eintrifft.
 
-#### 3.1.2. Kontaktaufnahme per Telefon
+#### 3.1.2. Kontaktaufnahmen per Telefon
 Bei einer Kontaktaufnahme per Telefon kann die Telefonnummer des Nutzers übermittelt werden. Sie wird ggf. im Gerät des Angerufenen angezeigt und dort zum Zwecke des Rückrufs (für eine geräteabhängige Dauer) gespeichert.
 
 Die Rufnummernübermittlung lässt sich verhindern, indem der Nutzer sie vor der Kontaktaufnahme unterdrückt.
