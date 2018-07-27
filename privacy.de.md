@@ -97,7 +97,26 @@ Unabhängig von der definierten Speicherdauer können Nutzer die Daten jederzeit
 ## 3. Funktionen und Inhalte
 Die folgenden Unterabschnitte geben detailliert Auskunft über die Art, den Umfang und den Zweck der Erhebung und Verarbeitung personenbezogenen Daten, die bei der Nutzung bestimmter Funktionen und Inhalte des Onlineangebots erfolgt.
 
-[Auflistung der Funktionen]
+### 3.1. Kontaktaufnahmen
+Der Betreiber stellt unterschiedliche Wege für die Kontaktaufnahme zur Verfügung, z.B. per Briefpost, E-Mail, Telefon oder über bereitgestellte Funktionen innerhalb des Onlineangebots.
+
+Die dabei übermittelten Daten werden zu folgenden Zwecken verarbeitet und gespeichert:
+- Abwicklung der Kontaktaufnahme
+- Erkennung, Abwehr und Verfolgung einer rechtswidrigen oder missbräuchlichen Kontaktaufnahme
+- Archivierung der Kontaktaufnahme bei Nutzern, die bereits in einer Kundenbeziehung mit dem Betreiber stehen
+- Erfüllung gesetzlicher Aufbewahrungspflichten
+
+Die Verarbeitung von Kontaktaufnahmen über bereitgestellte Funktionen innerhalb des Onlineangebots erfolgt nach vorheriger Einwilligung des Nutzers. Kontaktaufnahmen auf anderem Wege werden aus berechtigtem Interesse des Betreibers verarbeitet. Zielt die Kontaktaufnahme auf den Abschluss eines Vertrages ab, so gilt zusätzlich Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage für die Verarbeitung.
+
+Die bei einer Kontaktaufnahme übermittelten Daten können in Programmen bzw. Datenbanken zur Verwaltung von Kontaktaufnahmen und Kundenbeziehungen gespeichert werden (z.B. in einem "Customer-Relationship-Management" System).
+
+#### 3.1.1. Kontaktaufnahme per E-Mail
+Bei einer Kontaktaufnahme per E-Mail werden Daten ggf. unverschlüsselt übertragen (z.B. zwischen den beteiligten E-Mail-Servern). Des Weiteren kann es sein, dass eine E-Mail aufgrund von Spamfiltern oder technischen Problemen nicht beim gewünschten Empfänger eintrifft.
+
+#### 3.1.2. Kontaktaufnahme per Telefon
+Bei einer Kontaktaufnahme per Telefon kann die Telefonnummer des Nutzers übermittelt werden. Sie wird ggf. im Gerät des Angerufenen angezeigt und dort zum Zwecke des Rückrufs (für eine geräteabhängige Dauer) gespeichert.
+
+Die Rufnummernübermittlung lässt sich verhindern, indem der Nutzer sie vor der Kontaktaufnahme unterdrückt.
 
 ## 4. Rechte von Nutzern
 Nutzer dürfen zu Kategorien der verarbeiteten Daten, Verarbeitungszwecken, etwaigen Empfängern der Daten und der geplanten Speicherdauer (Art. 15 DSGVO) Auskunft sowie die Berichtigung unrichtiger und Ergänzung unvollständiger Daten (Art. 16 DSGVO) verlangen. Sie habe das Recht auf Erhalt von zuvor bereitgestellten Daten und Übermittlung an andere (Art. 20 DSGVO).
