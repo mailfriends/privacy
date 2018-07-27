@@ -101,9 +101,9 @@ Die folgenden Unterabschnitte geben detailliert Auskunft über die Art, den Umfa
 Der Betreiber stellt unterschiedliche Wege für die Kontaktaufnahme zur Verfügung, z.B. per Briefpost, E-Mail, Telefon oder über bereitgestellte Funktionen innerhalb des Onlineangebots.
 
 Die dabei übermittelten Daten werden zu folgenden Zwecken verarbeitet und gespeichert:
-- Abwicklung der Kontaktaufnahme
-- Erkennung, Abwehr und Verfolgung einer rechtswidrigen oder missbräuchlichen Kontaktaufnahme
-- Archivierung der Kontaktaufnahme bei Nutzern, die bereits in einer Kundenbeziehung mit dem Betreiber stehen
+- Abwicklung von Kontaktaufnahmen
+- Erkennung, Abwehr und Verfolgung rechtswidriger oder missbräuchlicher Kontaktaufnahmen
+- Archivierung von Kontaktaufnahmen bei Nutzern, die bereits in einer Kundenbeziehung mit dem Betreiber stehen
 - Erfüllung gesetzlicher Aufbewahrungspflichten
 
 Die Verarbeitung von Kontaktaufnahmen über bereitgestellte Funktionen innerhalb des Onlineangebots erfolgt nach vorheriger Einwilligung des Nutzers. Kontaktaufnahmen auf anderem Wege werden aus berechtigtem Interesse des Betreibers verarbeitet. Zielt die Kontaktaufnahme auf den Abschluss eines Vertrages ab, so gilt zusätzlich Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage für die Verarbeitung.
