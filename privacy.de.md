@@ -106,6 +106,4 @@ Unter bestimmten Voraussetzungen haben Nutzer das Recht, die Löschung von Daten
 
 Nutzer dürfen zuvor erteilte Einwilligungen sowie die Datenverarbeitung zum Zwecke der Direktwerbung jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3 DSGVO und Art 21 Abs. 2 DSGVO). Darüber hinaus dürfen sie der Datenverarbeitung, die aufgrund eines berechtigten Interesses des Betreibers erfolgen soll, aus Gründen widersprechen, die sich aus ihrer besonderen Situation ergeben (Art 21 Abs. 1 DSGVO).
 
-Nutzer haben das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen (Art. 77 DSGVO):
-
-[Kontaktdaten]
+Nutzer haben das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen (Art. 77 DSGVO), wenn sie der Ansicht sind, dass die Verarbeitung ihrer personenbezogenen Daten gegen die DSGVO verstößt.
