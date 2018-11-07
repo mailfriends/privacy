@@ -12,9 +12,7 @@ Für die Bereitstellung des Onlineangebots erhebt der Verantwortliche (nachfolge
 Der Betreiber verarbeitet die Daten der Nutzer direkt oder mithilfe von Auftragsverarbeitern (nachfolgend auch "Dienstleister"), behandelt sie dabei vertraulich und trifft gemäß Art. 32 DSGVO geeignete technische und organisatorische Maßnahmen zur Sicherheit der Datenverarbeitung.
 
 ### 1.1. Verantwortlicher
-Verantwortlicher im Sinne der DSGVO ist:
-
-[Kontaktdaten]
+Verantwortlicher im Sinne der DSGVO ist: [Kontaktdaten]
 
 ### 1.2. Rechtsgrundlage der Verarbeitung
 Die Verarbeitung von Daten erfolgt stets im Einklang mit der Datenschutzgrundverordnung (DSGVO) und in Übereinstimmung mit den für den Betreiber geltenden landesspezifischen Datenschutzbestimmungen.
