@@ -2,7 +2,7 @@
 
 This privacy policy explains the nature, scope and purpose of the collection and processing of personal data when using the online service "Mailfriends". Terms like "personal data" are defined in Art. 4 of the General Data Protection Regulation (GDPR).
 
-Due to the further development of the online service or due to changed legal or regulatory requirements, it may be necessary to change this privacy policy. The current version can always be accessed via the links within the online service.
+Due to the further development of the online service or due to changed legal or regulatory requirements, it may be necessary to change this privacy policy. The current version can always be accessed via the links within the online service. All prior communications or agreements are superseded by the current version.
 
 The date of this version is the [date]. 
 
