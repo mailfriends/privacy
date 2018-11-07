@@ -2,7 +2,7 @@
 
 Diese Datenschutzerklärung klärt über die Art, den Umfang und den Zweck der Erhebung und Verarbeitung personenbezogener Daten bei der Nutzung des Onlineangebots "Mailfriends" auf. Dabei verwendeten Begriffe wie "personenbezogene Daten" sind in Art. 4 der Datenschutzgrundverordnung (DSGVO) definiert.
 
-Durch die Weiterentwicklung des Onlineangebots oder aufgrund geänderter gesetzlicher oder behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die aktuell gültige Fassung kann jederzeit über die Verlinkung innerhalb des Onlineangebots abgerufen werden.
+Durch die Weiterentwicklung des Onlineangebots oder aufgrund geänderter gesetzlicher oder behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die aktuell gültige Fassung kann jederzeit über die Verlinkung innerhalb des Onlineangebots abgerufen werden. Alle früheren Mitteilungen oder Vereinbarungen werden durch die aktuelle Version ersetzt.
 
 Der Stand dieser Fassung ist der [Datum]. 
 
