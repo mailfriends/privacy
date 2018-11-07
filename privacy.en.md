@@ -4,7 +4,7 @@ This privacy policy explains the nature, scope and purpose of the collection and
 
 Due to the further development of the online service or due to changed legal or regulatory requirements, it may be necessary to change this privacy policy. The current version can always be accessed via the links within the online service. All prior communications or agreements are superseded by the current version.
 
-The date of this version is the [date]. 
+The date of this version is [date]. 
 
 ## 1. Processing of personal data
 For the provision of the online service, the controller (hereinafter also referred to as the "operator") collects personal data (hereinafter also referred to as "data" or "information") from data subjects (hereinafter also "users").
@@ -12,9 +12,7 @@ For the provision of the online service, the controller (hereinafter also referr
 The operator processes the data of the users directly or with the help of processors (hereinafter referred to as "service providers"), treats it confidentially and takes appropriate technical and organizational measures for the security of the data processing in accordance with Art. 32 GDPR.
 
 ### 1.1. Controller
-The controller within the meaning of the GDPR is:
-
-[contact details]
+The controller within the meaning of the GDPR is: [contact details]
 
 ### 1.2. Legal basis of processing
 The processing of data is always carried out in accordance with the General Data Protection Regulation (GDPR) and in accordance with the country-specific data protection regulations applicable to the operator.
