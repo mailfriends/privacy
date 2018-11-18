@@ -116,6 +116,57 @@ Bei einer Kontaktaufnahme per Telefon kann die Telefonnummer des Nutzers übermi
 
 Die Rufnummernübermittlung lässt sich verhindern, indem der Nutzer sie vor der Kontaktaufnahme unterdrückt.
 
+### 3.2. Meinung zum Onlinedienst
+Bei der Nutzung der Funktion zum Hinterlassen der eigenen Meinung über den Onlinedienst des Betreibers zum Zweck der Veröffentlichung (in anonymisierter, ggf. gekürzter oder übersetzter Form), werden folgende personenbezogene Daten verarbeitet:
+- Vor- bzw. Spitzname
+- Land
+- Meinung in Textform
+
+Die Daten werden für einen unbegrenzten Zeitraum gespeichert.
+
+Zugriff auf die Originaldaten hat nur der Betreiber. In anonymisierter, ggf. gekürzter oder übersetzter Form können die Informationen allen Nutzern des Onlinedienstes zugänglich gemacht werden.
+
+### 3.3. Anmeldung mit einer E-Mail-Adresse
+Bei der Nutzung der Funktion zur Verifizierung der Identität eines Nutzers mithilfe der E-Mail-Adresse werden folgende personenbezogene Daten verarbeitet:
+- E-Mail-Adresse
+
+Zur Verifizierung neuer E-Mail-Adressen erfolgt eine Zwischenspeicherung der E-Mail-Adresse bis zum Versand der Bestätigungs-E-Mail (in der Regel wenige Sekunden), danach wird sie gelöscht und bleibt lediglich anonymisiert gespeichert.
+
+Durch die Bestätigung der E-Mail-Adresse durch den Empfänger der Bestätigungs-E-Mail erfolgt die Speicherung der E-Mail-Adresse in lesbarer Form, bis sie gesperrt, ersetzt oder das Nutzerkonto gelöscht wird.
+
+Die Sperrung von E-Mail-Adressen durch den Empfänger einer E-Mail erfolgt mithilfe von Hashwerten. Die E-Mail-Adressen selbst werden nicht gespeichert. Die Speicherung von Hashwerten erfolgt zeitlich unbegrenzt.
+
+Zugriff auf gespeicherte E-Mail-Adressen hat nur der Betreiber.
+
+### 3.4. Nutzerkonto
+Die Anlage eines Nutzerkontos wird für die Nutzung weiterer Funktionen benötigt, damit andere Nutzer etwas über den Nutzer zum Zweck des Kennenlernens erfahren. Dabei werden folgende personenbezogene Daten verarbeitet:
+- Vor- bzw. Spitzname
+- Land
+- Wohnort (optional)
+- Alter (optional)
+- Geschlecht (optional)
+- Foto (optional)
+
+Die Speicherung erfolgt solange, bis das Nutzerkonto nicht vom Nutzer gelöscht wurde und der Betreiber annehmen kann, dass vom Nutzer noch Interesse an einer weiteren Nutzung besteht (in der Regel 90 Tage nach der letzter Nutzung von Funktionen).
+
+Alle Nutzer des Onlinedienstes haben Zugang zu den vorgenannten Informationen.
+
+### 3.5. Anzeigen
+Bei der Nutzung der Funktion zum Erstellen einer Anzeige zum Zweck der Kontaktaufnahme durch andere Nutzer werden folgende personenbezogene Daten verarbeitet:
+-  Text der Anzeige
+
+Die Anzeige wird von der Speicherung bis zum Ablauf der Anzeige gespeichert, zzgl. einer Übergangsfrist von 7 Tagen, in der Nutzer die Anzeige ggf. verlängern können. Der Ablauf der Anzeige erfolgt 30 Tage nach Prüfung der Anzeige bzw. 30 Tage nach letztmaliger Verlängerung durch den Nutzer.
+
+Alle Nutzer des Onlinedienstes haben Zugang zu den vorgenannten Informationen.
+
+### 3.6. Kontakte zu Nutzern
+Bei der Nutzung der Funktion zur Kontaktaufnahme zu anderen Nutzern und der Fortführung dieser Kontakte werden folgende personenbezogene Daten zum Zwecke der Kommunikation mit anderen Nutzern verarbeitet:
+- Geschriebene Nachrichten
+
+Die Daten werden gespeichert, bis der Kontakt von einem der Kommunikationsteilnehmer beendet oder das Nutzerkonto eines der Kommunikationsteilnehmer gelöscht wird.
+
+Auf die geschriebenen Nachrichten haben nur die Kommunikationsteilnehmer Zugriff. Der Betreiber hat in der Regel keinen Zugriff, da die Speicherung verschlüsselt erfolgt und nur die Kommunikationspartner den Schlüssel besitzen. Ein Kommunikationsteilnehmer kann dem Betreiber aber den Zugriff gewähren, um z.B. Verstöße gegen die Nutzungsbedingungen prüfen zu lassen.
+
 ## 4. Rechte von Nutzern
 Nutzer dürfen zu Kategorien der verarbeiteten Daten, Verarbeitungszwecken, etwaigen Empfängern der Daten und der geplanten Speicherdauer (Art. 15 DSGVO) Auskunft sowie die Berichtigung unrichtiger und Ergänzung unvollständiger Daten (Art. 16 DSGVO) verlangen. Sie habe das Recht auf Erhalt von zuvor bereitgestellten Daten und Übermittlung an andere (Art. 20 DSGVO).
 
