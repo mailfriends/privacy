@@ -117,6 +117,57 @@ When contacting by phone, the phone number of the user can be transmitted. It ma
 
 The transmission of the user's phone number can be prevented, if the user suppresses it before contacting.
 
+### 3.2. Opinion on the online service
+By using the feature to leave your opinion about the operator's online service for the purpose of publication (in anonymous, shortened or translated form), the following personal information will be processed:
+- First name or nickname
+- Country
+- Opinion in text form
+
+The information is stored for an indefinite period of time.
+
+Only the operator has access to the original information. The information can be made accessible to all users of the online service in anonymised, possibly shortened or translated form.
+
+### 3.3. Registration with an e-mail address
+When using the feature to verify a user's identity using the e-mail address, the following personal information will be processed:
+- E-mail address
+
+In order to verify new e-mail addresses, the e-mail address is buffered until the confirmation e-mail is sent (usually a few seconds), after which it is deleted and stored only anonymously.
+
+With the confirmation of the e-mail address by the recipient of the confirmation e-mail, the e-mail address is stored in a readable form until it is blocked, replaced, or the user account is deleted.
+
+The blocking of e-mail addresses by the recipient of an e-mail is done using hash values. The e-mail addresses are not saved for this purpose. The hash values are stored for an indefinite period of time..
+
+Only the operator has access to saved e-mail addresses.
+
+### 3.4. User account
+The creation of a user account is required for the use of additional functions, so that other users learn something about the user for the purpose of getting to know each other. The following personal data is processed:
+- First name or nickname
+- Country
+- Residence (optional)
+- Age (optional)
+- Gender (optional)
+- Photo (optional)
+
+The storage takes place until the user account has not been deleted by the user and the operator can assume that the user is still interested in further use (usually 90 days after the last use of functions).
+
+All users of the online service have access to the above information.
+
+### 3.5. Ads
+When using the feature to create an ad for the purpose of beeing contacted by other users, the following personal information will be processed:
+-  Text of the ad
+
+The ad will be stored from the moment the ad is saved to the expiration of the ad, plus a transitional period of 7 days, during which users may extend the ad. The ad expires 30 days after the ad has been checked or 30 days after the last extension by the user.
+
+All users of the online service have access to the above information.
+
+### 3.6. Contacts with users
+By using the feature to contact other users and continue these contacts, the following personal information will be processed for the purpose of communicating with other users:
+- Written messages
+
+The data is stored until the contact is terminated by one of the communication participants or the user account of one of the communication participants is deleted.
+
+Only the communication participants have access to the written messages. The operator usually has no access, since the storage is encrypted and only the communication partners have the key. However, a communication participant may grant access to the operator, e.g. in case of violations of the terms of use.
+
 ## 4. Rights of users
 Users may request information on the categories of processed data, processing purposes, potential recipients of the data and the planned storage period (Art. 15 GDPR) as well as the correction of inaccurate and the supplement of incomplete data (Art. 16 GDPR). They has the right to receive previously provided data and transmit it to others (Art. 20 GDPR).
 
